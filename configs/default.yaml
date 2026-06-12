@@ -1,0 +1,68 @@
+seed: 42
+device: auto
+
+data:
+  raw_dir: data/raw/ACL18
+  processed_dir: data/processed
+  processed_name: acl18
+  date_range:
+    start:
+    end:
+  up_threshold: 0.0055
+  down_threshold: -0.005
+  target_horizon: 1
+  split:
+    train: 0.8
+    validation: 0.1
+    test: 0.1
+  required_files:
+    prices: prices.csv
+    news: news.csv
+    metadata: metadata.csv
+    macro: macro.csv
+
+features:
+  selected_time_series_features: 32
+  macro_columns:
+    - GDP
+    - CPI
+    - UR
+    - NFP
+    - ICI
+    - CCI
+    - MPMI
+    - M1
+    - M2
+    - TY10
+    - FSI
+    - GPR
+    - EPU
+    - SPMI
+  sentiment:
+    mode: provided_or_lexicon
+    neutral_when_missing: true
+  feature_selection:
+    lasso_alpha: 0.001
+    random_state: 42
+    max_samples: 50000
+
+model:
+  graph_dim: 32
+  hidden_size: 256
+  num_layers: 3
+  num_heads: 8
+  dropout: 0.1
+  per_stock_output: true
+
+training:
+  lookback_window: 16
+  batch_size: 32
+  max_epochs: 300
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  step_size: 15
+  gamma: 0.5
+  early_stopping_patience: 20
+  num_workers: 0
+  gradient_clip_norm: 1.0
+  output_dir: runs/acl18

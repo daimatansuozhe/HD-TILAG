@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Experiment artifacts
+data/raw/**
+!data/raw/
+!data/raw/.gitkeep
+!data/raw/ACL18/
+!data/raw/ACL18/.gitkeep
+!data/raw/BIGDATA22/
+!data/raw/BIGDATA22/.gitkeep
+!data/raw/CMIN/
+!data/raw/CMIN/.gitkeep
+data/processed/**
+!data/processed/
+!data/processed/.gitkeep
+runs/
+checkpoints/
+outputs/
+wandb/
+mlruns/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

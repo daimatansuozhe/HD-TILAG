@@ -1,0 +1,22 @@
+inherits: default.yaml
+
+data:
+  raw_dir: data/raw/DEMO
+  processed_name: demo
+
+features:
+  selected_time_series_features: 16
+
+model:
+  num_stocks: 8
+  graph_dim: 8
+  hidden_size: 32
+  num_layers: 2
+  num_heads: 4
+
+training:
+  lookback_window: 8
+  batch_size: 4
+  learning_rate: 0.001
+  max_epochs: 3
+  output_dir: runs/demo

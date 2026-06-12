@@ -1,0 +1,21 @@
+inherits: default.yaml
+
+data:
+  raw_dir: data/raw/ACL18
+  processed_name: acl18
+  date_range:
+    start: 2014-01-02
+    end: 2015-12-30
+
+model:
+  num_stocks: 81
+  hidden_size: 256
+  num_layers: 3
+  num_heads: 8
+
+training:
+  lookback_window: 16
+  batch_size: 32
+  learning_rate: 0.001
+  max_epochs: 300
+  output_dir: runs/acl18

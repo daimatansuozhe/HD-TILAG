@@ -1,0 +1,21 @@
+inherits: default.yaml
+
+data:
+  raw_dir: data/raw/CMIN
+  processed_name: cmin
+  date_range:
+    start: 2020-01-01
+    end: 2021-12-31
+
+model:
+  num_stocks: 113
+  hidden_size: 256
+  num_layers: 3
+  num_heads: 8
+
+training:
+  lookback_window: 32
+  batch_size: 32
+  learning_rate: 0.0008
+  max_epochs: 300
+  output_dir: runs/cmin
