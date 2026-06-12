@@ -73,9 +73,3 @@ PowerShell helpers are also provided:
 .\scripts\run_all.ps1
 ```
 
-## GitHub Upload
-Raw data, processed tensors, checkpoints, and run outputs are ignored by `.gitignore`, so the project can be uploaded without committing large datasets.
-
-```powershell
-.\scripts\publish_github.ps1 -RepoName hd-tilag-reproduction -Visibility public
-```
