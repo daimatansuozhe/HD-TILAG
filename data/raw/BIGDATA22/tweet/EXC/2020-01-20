@@ -1,0 +1,15 @@
+sentence
+"$exch momentum breakout signal
+
+exchange: ftx
+symbol: exch-perp
+timeframe: 30m
+signal: momentum breakout
+
+date: 01/20/2020, 5:00 pm
+
+sign up: URL
+
+indicator: gainzy momentum channels
+
+message AT_USER for access URL"

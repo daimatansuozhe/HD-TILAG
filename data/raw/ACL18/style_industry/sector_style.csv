@@ -1,0 +1,82 @@
+﻿Ticker,Name,Sector,Stock Style Box
+AAPL,Apple Inc,Technology,Large Core
+ABBV,AbbVie Inc,Healthcare,Large Value
+ABLZF,ABB Ltd,Industrials,Large Core
+AEP,American Electric Power Co Inc,Utilities,Mid Value
+AMGN,Amgen Inc,Healthcare,Large Value
+AMZN,Amazon.com Inc,Consumer Cyclical,Large Core
+BA,Boeing Co,Industrials,Large Value
+BAC,Bank of America Corp,Financial Services,Large Value
+BCH,Banco De Chile ADR,Financial Services,Large Core
+BHP,BHP Group Ltd ADR,Basic Materials,Large Value
+BKNG,Booking Holdings Inc,Consumer Cyclical,Large Core
+BMY,Bristol-Myers Squibb Co,Healthcare,Large Value
+BP,BP PLC ADR,Energy,Large Value
+BRK.A,Berkshire Hathaway Inc Class A,Financial Services,Large Core
+BSAC,Banco Santander Chile ADR,Financial Services,Large Core
+BUD,Anheuser-Busch InBev SA/NV ADR,Consumer Defensive,Large Core
+C,Citigroup Inc,Financial Services,Large Value
+CAT,Caterpillar Inc,Industrials,Large Value
+CHTR,Charter Communications Inc Class A,Communication Services,Mid Value
+CMCSA,Comcast Corp Class A,Communication Services,Large Value
+CODI,Compass Diversified Holdings,Industrials,Small Value
+CSCO,Cisco Systems Inc,Technology,Large Value
+CVX,Chevron Corp,Energy,Large Value
+D,Dominion Energy Inc,Utilities,Mid Core
+DHR,Danaher Corp,Healthcare,Large Value
+DIS,The Walt Disney Co,Communication Services,Large Value
+DUK,Duke Energy Corp,Utilities,Large Value
+EXC,Exelon Corp,Utilities,Mid Value
+GD,General Dynamics Corp,Industrials,Large Value
+GE,GE Aerospace,Industrials,Large Core
+GOOG,Alphabet Inc Class C,Communication Services,Large Core
+HD,The Home Depot Inc,Consumer Cyclical,Large Core
+HON,Honeywell International Inc,Industrials,Large Core
+HSBC,HSBC Holdings PLC ADR,Financial Services,Large Value
+IEP,Icahn Enterprises LP Depositary Units Repr Units of LP Interests,Energy,Small Value
+INTC,Intel Corp,Technology,Large Core
+JNJ,Johnson & Johnson,Healthcare,Large Value
+JPM,JPMorgan Chase & Co,Financial Services,Large Value
+KO,Coca-Cola Co,Consumer Defensive,Large Value
+LMT,Lockheed Martin Corp,Industrials,Large Value
+MA,Mastercard Inc Class A,Financial Services,Large Growth
+MCD,McDonald's Corp,Consumer Cyclical,Large Core
+MDT,Medtronic PLC,Healthcare,Large Value
+META,Meta Platforms Inc Class A,Communication Services,Large Core
+MMM,3M Co,Industrials,Large Value
+MO,Altria Group Inc,Consumer Defensive,Large Value
+MRK,Merck & Co Inc,Healthcare,Large Value
+MSFT,Microsoft Corp,Technology,Large Core
+NEE,NextEra Energy Inc,Utilities,Large Value
+NGG,National Grid PLC ADR,Utilities,Large Value
+NVS,Novartis AG ADR,Healthcare,Large Core
+ORCL,Oracle Corp,Technology,Large Growth
+PCCYF,PetroChina Co Ltd Class H,Energy,Large Value
+PCG,PG&E Corp,Utilities,Mid Value
+PCOFF,Pico Far East Holdings Ltd,Communication Services,Small Value
+PEP,PepsiCo Inc,Consumer Defensive,Large Value
+PFE,Pfizer Inc,Healthcare,Large Value
+PG,Procter & Gamble Co,Consumer Defensive,Large Value
+PM,Philip Morris International Inc,Consumer Defensive,Large Core
+PPL,PPL Corp,Utilities,Mid Core
+REX,REX American Resources Corp,Basic Materials,Small Value
+RTX,RTX Corp,Industrials,Large Value
+SHEL,Shell PLC ADR (Representing - Ordinary Shares),Energy,Large Value
+SLB,SLB,Energy,Mid Value
+SNPPF,SNP Schneider-Neureither & Partner SE,Technology,Small Growth
+SNY,Sanofi SA ADR,Healthcare,Large Value
+SO,Southern Co,Utilities,Large Value
+SPLP,Steel Partners Holdings LP,Industrials,Small Value
+SRE,Sempra,Utilities,Mid Value
+T,AT&T Inc,Communication Services,Large Value
+TM,Toyota Motor Corp ADR,Consumer Cyclical,Large Value
+TSM,Taiwan Semiconductor Manufacturing Co Ltd ADR,Technology,Large Growth
+TTE,TotalEnergies SE ADR,Energy,Large Value
+UL,Unilever PLC ADR,Consumer Defensive,Large Core
+UNH,UnitedHealth Group Inc,Healthcare,Large Value
+UPS,United Parcel Service Inc Class B,Industrials,Large Value
+V,Visa Inc Class A,Financial Services,Large Core
+VZ,Verizon Communications Inc,Communication Services,Large Value
+WFC,Wells Fargo & Co,Financial Services,Large Value
+WMT,Walmart Inc,Consumer Defensive,Large Core
+XOM,Exxon Mobil Corp,Energy,Large Value

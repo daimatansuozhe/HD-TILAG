@@ -1,0 +1,2 @@
+sentence
+"AT_USER the bug need to be chained w/ something that allows an upload into the web root context. for example anything from a deployed app directory (default is $catalina_home/web apps/root) like web-inf, etc. the point is you still need a file upload or write primitive making it limited."

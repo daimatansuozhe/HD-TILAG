@@ -1,0 +1,6 @@
+sentence
+"fidelity drops $axp, $bac | $v the winner
+
+URL via AT_USER"
+rt AT_USER $v ex-stock tom AT_USER URL
+check which story for #dowjones has the highest score $v $mmm $mcd URL URL

@@ -1,0 +1,2 @@
+sentence
+"そういえば、この間話してた excelのどうしよう話、c2に =a2&amp;_&amp;b2 ってやって、=if(countif($c$2:c2,c2)&gt;1,true,false)とかして解決しました。URL"

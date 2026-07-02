@@ -11,18 +11,6 @@ htmlcov/
 venv/
 
 # Experiment artifacts
-data/raw/**
-!data/raw/
-!data/raw/.gitkeep
-!data/raw/ACL18/
-!data/raw/ACL18/.gitkeep
-!data/raw/BIGDATA22/
-!data/raw/BIGDATA22/.gitkeep
-!data/raw/CMIN/
-!data/raw/CMIN/.gitkeep
-data/processed/**
-!data/processed/
-!data/processed/.gitkeep
 runs/
 checkpoints/
 outputs/

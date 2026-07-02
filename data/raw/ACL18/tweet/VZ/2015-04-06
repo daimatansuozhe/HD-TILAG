@@ -1,0 +1,6 @@
+sentence
+"AT_USER
+subscribed to $vz
+to add another, tweet: $symbol AT_USER
+
+to unsubscribe: unsubscribe $symbol AT_USER"

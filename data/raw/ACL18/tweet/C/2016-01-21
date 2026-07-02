@@ -1,0 +1,6 @@
+sentence
+"=if($b$44="""","""",if(iserror(hlookup(i$23,$c$12:g$19,5,false)),"""",hlookup(i$23,$c$12:g$19,5,false)))
+みたいな条件式書いててやっとできたぜーと思った矢先に仕様変更　帰っていいすか？？？"
+$c just posted a new conference call. listen now: URL
+rt AT_USER the big banks are underperforming the market today: $db $gs $ms $bac $c $jpm URL
+citigroup inc. $c rating lowered to strong sell at zacks investment research URL #acn

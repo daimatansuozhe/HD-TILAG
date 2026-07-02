@@ -1,0 +1,50 @@
+﻿Ticker,Name,Sector,Stock Style Box
+AAPL,Apple Inc,Technology,Large Core
+AEP,American Electric Power Co Inc,Utilities,Mid Core
+AMGN,Amgen Inc,Healthcare,Large Value
+AMZN,Amazon.com Inc,Consumer Cyclical,Large Core
+BA,Boeing Co,Industrials,Large Value
+BAC,Bank of America Corp,Financial Services,Large Value
+C,Citigroup Inc,Financial Services,Large Value
+CAT,Caterpillar Inc,Industrials,Large Value
+CMCSA,Comcast Corp Class A,Communication Services,Large Value
+CODI,Compass Diversified Holdings,Industrials,Small Value
+CSCO,Cisco Systems Inc,Technology,Large Value
+CVX,Chevron Corp,Energy,Large Value
+D,Dominion Energy Inc,Utilities,Mid Core
+DIS,The Walt Disney Co,Communication Services,Large Value
+DUK,Duke Energy Corp,Utilities,Large Value
+EXC,Exelon Corp,Utilities,Mid Value
+GD,General Dynamics Corp,Industrials,Large Value
+GE,GE Aerospace,Industrials,Large Growth
+GMRE,Global Medical REIT Inc,Real Estate,Small Core
+GOOG,Alphabet Inc Class C,Communication Services,Large Core
+HD,The Home Depot Inc,Consumer Cyclical,Large Value
+HON,Honeywell International Inc,Industrials,Large Value
+INTC,Intel Corp,Technology,Large Core
+JNJ,Johnson & Johnson,Healthcare,Large Value
+JPM,JPMorgan Chase & Co,Financial Services,Large Value
+KO,Coca-Cola Co,Consumer Defensive,Large Value
+LMT,Lockheed Martin Corp,Industrials,Large Value
+MA,Mastercard Inc Class A,Financial Services,Large Growth
+MCD,McDonald's Corp,Consumer Cyclical,Large Core
+MDT,Medtronic PLC,Healthcare,Large Value
+MMM,3M Co,Industrials,Large Value
+MO,Altria Group Inc,Consumer Defensive,Large Value
+MRK,Merck & Co Inc,Healthcare,Large Value
+MSFT,Microsoft Corp,Technology,Large Core
+NEE,NextEra Energy Inc,Utilities,Large Value
+ORCL,Oracle Corp,Technology,Large Growth
+PCG,PG&E Corp,Utilities,Mid Value
+PM,Philip Morris International Inc,Consumer Defensive,Large Value
+PPL,PPL Corp,Utilities,Mid Core
+REX,REX American Resources Corp,Basic Materials,Small Core
+SO,Southern Co,Utilities,Large Value
+SRE,Sempra,Utilities,Mid Value
+T,AT&T Inc,Communication Services,Large Value
+UPS,United Parcel Service Inc Class B,Industrials,Mid Value
+V,Visa Inc Class A,Financial Services,Large Core
+VZ,Verizon Communications Inc,Communication Services,Large Value
+WFC,Wells Fargo & Co,Financial Services,Large Value
+WMT,Walmart Inc,Consumer Defensive,Large Core
+XOM,Exxon Mobil Corp,Energy,Large Value

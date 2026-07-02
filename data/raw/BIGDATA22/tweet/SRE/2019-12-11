@@ -1,0 +1,8 @@
+sentence
+"find this line:
+
+$cmdoutput = androidadbsendshellcommand(""set export=$(am start "" &amp; $srestart &amp; ""-n "" &amp; $g_sandroidgamepackage
+
+and replace the whole line with this:
+
+$cmdoutput =... URL"
